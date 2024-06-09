@@ -1,0 +1,11 @@
+--2024-06-08 23:03:51--  https://images.unsplash.com/photo-1714053180988-4f725e646164?w=500
+Resolving images.unsplash.com (images.unsplash.com)... 151.101.126.208, 2a04:4e42:1e::720
+Connecting to images.unsplash.com (images.unsplash.com)|151.101.126.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37055 (36K) [image/jpeg]
+Saving to: ‘deer.jpg’
+
+deer.jpg            0%[              ]       0  --.-KB/s               deer.jpg          100%[=============>]  36.19K  --.-KB/s    in 0.01s   
+
+2024-06-08 23:03:52 (2.87 MB/s) - ‘deer.jpg’ saved [37055/37055]
+
